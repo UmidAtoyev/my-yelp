@@ -13,15 +13,12 @@ Welcome to my project. It is My Yelp project.
 ## Authors
 
 Github
-- [@KhRavshanDev](https://github.com/KhRavshanDev)
-
-Gitea
-- [@xakimov_r](https://git.us.qwasar.io/xakimov_r)
+- [@UmidAtoyev](https://github.com/UmidAtoyev)
 
 ## Deployment
 
 ```
-  https://master.d29cmkripu6i5y.amplifyapp.com/
+ https://master.d2jw4yeymbxdne.amplifyapp.com/
 ```
 
 
@@ -39,14 +36,6 @@ Install ReactJs App, Amplify Project
 I learned more about ReactJs and AWS from this video
 - [Build an Online Store Using AWS, React, and Stripe](https://www.youtube.com/watch?v=JgwI22y_eFA)
 
-
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/KhRavshanDev/yelp.git
-```
 
 Go to the project directory
 
